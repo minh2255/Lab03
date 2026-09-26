@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab03\Bai3.2\bin\Debug\net10.0\Bai3.2.exe
+C:\Users\Hp\source\repos\Lab03\Bai3.2\bin\Debug\net10.0\Bai3.2.deps.json
+C:\Users\Hp\source\repos\Lab03\Bai3.2\bin\Debug\net10.0\Bai3.2.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab03\Bai3.2\bin\Debug\net10.0\Bai3.2.dll
+C:\Users\Hp\source\repos\Lab03\Bai3.2\bin\Debug\net10.0\Bai3.2.pdb
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.dll
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\refint\Bai3.2.dll
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.pdb
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\Bai3.2.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab03\Bai3.2\obj\Debug\net10.0\ref\Bai3.2.dll
