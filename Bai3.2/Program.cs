@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace NNLTCSharpBai3_2
 {
-    class Profram
+    class Program
     {
         static void Main(string[] args)
         {
